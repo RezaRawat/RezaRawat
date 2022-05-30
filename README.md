@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @RezaRawat
-- 👀 I’m interested in Software Development and Machine Learning
-- 🌱 I’m currently learning Mobile App Dev via Dart with Flutter 
-- 📫 How to reach me via email: 216005204@stu.ukzn.ac.za
+- 👋 Hi, I’m Reza
+- 👀 I’m interested in Full Stack Software Development with ASP.NET Core and React
+- 🌱 I’m currently working as a Graduate/Junior Developer at PaySpace
+- 📫 Reach me via email: m.rezarawat3@gmail.com
 
 <!---
 RezaRawat/RezaRawat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
